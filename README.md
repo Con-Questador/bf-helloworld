@@ -1,2 +1,2 @@
 # bf-helloworld
-Моя варіація Hello, world на Brainfuck
+Моя варіація "Hello, world" на Brainfuck
